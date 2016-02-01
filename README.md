@@ -1,24 +1,18 @@
-# Semester 1: Mathe 1
+# Alphanerds
+##Semester 1: Mathe 1
 
-Induktion: Daniel, Julia
-
-Kompl. Zahlen: 
-	Zahlen : Freddy, Daniel	
-	Polynome: Julia, Alex
-	
-Grenzwerte:
-	Reihen: Alex Julia
-	Funktionen: Danny, Freddy
-
-Stetigkeit: Daniel, Freddy
-
-Exp: Julia, Danny
-
-Ableitungen: Alex, Daniel
-
-Integral: Freddy, Danny
-
-Taylor: ???
+Thema | Nerd 1 | Nerd 2
+--- | --- | ---
+**Induktion** | Daniel | Julia
+**Kompl. Zahlen**: Die Zahlen| Freddy | Daniel
+**Kompl. Zahlen**: Polynome| Julia | Alex
+**Grenzwerte**: Reihen | Alex | Julia
+**Grenzwerte**: Funktionen|Danny | Freddy
+**Stetigkeit**|Daniel | Freddy
+**Exponentialfunktion** | Julia | Danny
+**Ableitungen** | Alex | Daniel
+**Integral** | Freddy | Danny
+**Taylorpolynom** | ??? | ???
 
 
 Jeweils: 
