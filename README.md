@@ -60,4 +60,4 @@ Bitte in Kleinbuchstaben einen kurzen aussagekräftigen Namen für die Aufgabe a
 [Mathe-Skript](http://aam.uni-freiburg.de/abtlg/ls/lsbartels/lehre/Mathematik_I/Mathematik_I/kuwe-inginf.pdf)
 [Vorlesungs-Seite](http://aam.uni-freiburg.de/abtlg/ls/lsbartels/lehre/Mathematik_I/Mathematik_I)
 
-Kleine Anmekerung, bevor ihr pushen/commiten könnt, müsst ihr write-access bekommen! Dazu braucht der aktuelle Repository-Nerd euren Github namen.
+Kleine Anmerkung: bevor ihr pushen/commiten könnt, müsst ihr write-access bekommen! Dazu braucht der aktuelle Repository-Nerd euren Github namen.
