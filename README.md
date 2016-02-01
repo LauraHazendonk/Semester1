@@ -25,7 +25,9 @@ Zu dem jeweiligen Thema sind jeweils herauszusuchen (falls vorhanden):
 
 3. Beweise aus der Vorlesung
 
-und anschließend in dieses Repository als .pdf File in den entsprechenden Ordner zu commiten. Dies kann z.B. durch einen Screenshot und anschließende Umwandlung auf .pdf geschehen. Lösungen sind nicht anzufertigen, können aber gerne hochgeladen werden. Hat der andere Nerd die Aufgabe schon hochgeladen, bitte nicht ein zweites mal commiten. __Deadline__ ist der 08.02.
+und anschließend in dieses Repository als .pdf File in den entsprechenden Ordner zu commiten. Dies kann z.B. durch einen Screenshot und anschließende Umwandlung auf .pdf geschehen. Nur relevante Aufgaben/Beweise hochladen (nicht zu schwierig, aber die 1er Aufgaben nicht weglassen!). Hat der andere Nerd die Aufgabe schon hochgeladen, bitte nicht ein zweites mal commiten. Lösungen sind nicht anzufertigen, können aber gerne hochgeladen werden.
+
+__Deadline__ ist der 08.02.
 
 Dabei bitte aufjedenfall die unten stehenden Namenskonventionen beachten! 
 
