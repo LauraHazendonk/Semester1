@@ -29,7 +29,9 @@ und anschließend in dieses Repository als .pdf File in den entsprechenden Ordne
 
 Dabei bitte aufjedenfall die unten stehenden Namenskonventionen beachten! 
 
-Hat der andere Nerd die Aufgabe schon hochgeladen, so bitte nicht ein zweites mal commiten.
+Hat der andere Nerd die Aufgabe schon hochgeladen, bitte nicht ein zweites mal commiten.
+
+__Deadline__ ist der 08.02.
 
 ### Namenskonventionen:
 Die .pdf Dateien sind in folgendem Namensformat hochzuladen: QUELLENART_SPEZIFIKATIONEN_NAME.pdf. Nachstehend einige Erläuterungen.
@@ -57,7 +59,9 @@ Bitte in Kleinbuchstaben einen kurzen aussagekräftigen Namen für die Aufgabe a
 
 ### Ressourcen:
 [Github-Cheatsheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+
 [Mathe-Skript](http://aam.uni-freiburg.de/abtlg/ls/lsbartels/lehre/Mathematik_I/Mathematik_I/kuwe-inginf.pdf)
+
 [Vorlesungs-Seite](http://aam.uni-freiburg.de/abtlg/ls/lsbartels/lehre/Mathematik_I/Mathematik_I)
 
 Kleine Anmerkung: bevor ihr pushen/commiten könnt, müsst ihr write-access bekommen! Dazu braucht der aktuelle Repository-Nerd euren Github namen.
