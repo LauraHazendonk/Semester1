@@ -32,7 +32,7 @@ __Deadline__ ist der 08.02.
 Dabei bitte aufjedenfall die unten stehenden Namenskonventionen beachten! 
 
 ### Namenskonventionen:
-Die .pdf Dateien sind in folgendem Namensformat hochzuladen: QUELLENART_SPEZIFIKATIONEN_NAME.pdf. Nachstehend einige Erläuterungen.
+Die .pdf Dateien sind in folgendem Namensformat hochzuladen: QUELLENART_SPEZIFIKATIONEN_NAME.pdf. Für Lösungen gilt: L_QUELLENART_SPEZIFIKATIONEN_NAME.pdf Nachstehend einige Erläuterungen.
 
 __Quellenarten__:
 
@@ -54,6 +54,10 @@ Extramaterial | Nur falls sinnvoll etwas angeben
 
 __Name__:
 Bitte in Kleinbuchstaben einen kurzen aussagekräftigen Namen für die Aufgabe angeben, vorallem bei Beweisen relevant - ansonsten einfach mal gucken ob was sinnvolles möglich ist.
+
+__Beispiele__:
+SKR_4-1-S11_riemannsumme.pdf ist der zugehörige Satz zur Riemmann Summe.
+L_UEB_11-3_ringbeweis.pdf ist die Lösung zu dem Pain in Form einer Übungsaufgabe (Blatt 11, Aufgabe 3).
 
 ### Ressourcen:
 [Github-Cheatsheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
