@@ -53,9 +53,11 @@ Altklausur | ID-AUFGABENNUMMER (ID der Examendatenbank) | 2074-4 ist eine Ableit
 Extramaterial | Nur falls sinnvoll etwas angeben
 
 __Name__:
+
 Bitte in Kleinbuchstaben einen kurzen aussagekräftigen Namen für die Aufgabe angeben, vorallem bei Beweisen relevant - ansonsten einfach mal gucken ob was sinnvolles möglich ist.
 
 __Beispiele__:
+
 SKR_4-1-S11_riemannsumme.pdf ist der zugehörige Satz zur Riemmann Summe.
 
 L_UEB_11-3_ringbeweis.pdf ist die Lösung zu dem Pain in Form einer Übungsaufgabe (Blatt 11, Aufgabe 3).
