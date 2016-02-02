@@ -57,6 +57,7 @@ Bitte in Kleinbuchstaben einen kurzen aussagekräftigen Namen für die Aufgabe a
 
 __Beispiele__:
 SKR_4-1-S11_riemannsumme.pdf ist der zugehörige Satz zur Riemmann Summe.
+
 L_UEB_11-3_ringbeweis.pdf ist die Lösung zu dem Pain in Form einer Übungsaufgabe (Blatt 11, Aufgabe 3).
 
 ### Ressourcen:
