@@ -1,4 +1,6 @@
 # Alpha-Nerds
+##News:
+03.02 - Namenskonventionen geupdated (EXT Materialien Spezifikation).
 ##Semester 1: Mathe 1
 ### Einteilung:
 
@@ -48,9 +50,9 @@ __Spezifikationen__:
 Quelle | Spezifiktation | Beispiel
 --- | --- | ---
 Skript | KAPITEL-UNTERKAPITEL-SATZ/BEISPIEL/DEFINITION (S/B/D) | 4-1-S11 wäre die Riemansche Summe
-Übung | BLATTNUMMER-AUFGABENNUMMER | 11-3 ist pain!
+Übung | BLATTNUMMER-AUFGABENNUMMER | 11-03 ist pain!
 Altklausur | ID-AUFGABENNUMMER (ID der Examendatenbank) | 2074-4 ist eine Ableitungsaufgabe
-Extramaterial | Nur falls sinnvoll etwas angeben
+Extramaterial | NAMEDERQUELLE-SEITE/NUMMER/VERGLEICHBARES | MathematikFuerIngenieure-006 ist (nicht nachgeguckt).
 
 __Name__:
 
