@@ -4,9 +4,11 @@
 * 03.02 (2) - Dateien nicht umbedingt in .pdf hochladen: .png/.jpgg reicht.
 
 * 03.02 (1) - Namenskonventionen geupdated (EXT Materialien Spezifikation).
+
+
 ##Semester 1: Mathe 1
 
-### Einteilung:
+###Einteilung:
 
 Thema | Nerd 1 | Nerd 2
 --- | --- | ---
