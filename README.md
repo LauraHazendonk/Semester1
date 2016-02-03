@@ -1,7 +1,11 @@
 # Alpha-Nerds
 ##News:
-03.02 - Namenskonventionen geupdated (EXT Materialien Spezifikation).
+
+* 03.02 (2) - Dateien nicht umbedingt in .pdf hochladen: .png/.jpgg reicht.
+
+* 03.02 (1) - Namenskonventionen geupdated (EXT Materialien Spezifikation).
 ##Semester 1: Mathe 1
+
 ### Einteilung:
 
 Thema | Nerd 1 | Nerd 2
@@ -27,14 +31,14 @@ Zu dem jeweiligen Thema sind jeweils herauszusuchen (falls vorhanden):
 
 3. Beweise aus der Vorlesung
 
-und anschließend in dieses Repository als .pdf File in den entsprechenden Ordner zu commiten. Dies kann z.B. durch einen Screenshot und anschließende Umwandlung auf .pdf geschehen. Nur relevante Aufgaben/Beweise hochladen (nicht zu schwierig, aber die 1er Aufgaben nicht weglassen!). Hat der andere Nerd die Aufgabe schon hochgeladen, bitte nicht ein zweites mal commiten. Lösungen sind nicht anzufertigen, können aber gerne hochgeladen werden.
+und anschließend in dieses Repository als .pdf/.png/.jpg File in den entsprechenden Ordner zu commiten. Dies kann z.B. durch einen Screenshot geschehen. Nur relevante Aufgaben/Beweise hochladen (nicht zu schwierig, aber die 1er Aufgaben nicht weglassen!). Hat der andere Nerd die Aufgabe schon hochgeladen, bitte nicht ein zweites mal commiten. Lösungen sind nicht anzufertigen, können aber gerne hochgeladen werden.
 
 __Deadline__ ist der 08.02.
 
 Dabei bitte aufjedenfall die unten stehenden Namenskonventionen beachten! 
 
 ### Namenskonventionen:
-Die .pdf Dateien sind in folgendem Namensformat hochzuladen: QUELLENART_SPEZIFIKATIONEN_NAME.pdf. Für Lösungen gilt: L_QUELLENART_SPEZIFIKATIONEN_NAME.pdf Nachstehend einige Erläuterungen.
+Die Dateien sind in folgendem Namensformat hochzuladen: QUELLENART_SPEZIFIKATIONEN_NAME.png. Für Lösungen gilt: L_QUELLENART_SPEZIFIKATIONEN_NAME.png Nachstehend einige Erläuterungen.
 
 __Quellenarten__:
 
@@ -56,11 +60,11 @@ Extramaterial | NAMEDERQUELLE-SEITE/NUMMER/VERGLEICHBARES | MathematikFuerIngeni
 
 __Name__:
 
-Bitte in Kleinbuchstaben einen kurzen aussagekräftigen Namen für die Aufgabe angeben, vorallem bei Beweisen relevant - ansonsten einfach mal gucken ob was sinnvolles möglich ist.
+Bitte in Kleinbuchstaben einen kurzen aussagekräftigen Namen für die Aufgabe angeben, vorallem bei Beweisen relevant - ansonsten einfach mal gucken ob was sinnvolles möglich ist. Großbuchstaben zur verbesserten Lesbarkeit sind ok z.B. UEB_13-1_partielleSubst.png ist eine Aufgabe zur partiellen Integration bzw zur Integration mit Substitution.
 
 __Beispiele__:
 
-SKR_4-1-S11_riemannsumme.pdf ist der zugehörige Satz zur Riemmann Summe.
+SKR_4-1-S11_riemannsumme.png ist der zugehörige Satz zur Riemmann Summe.
 
 L_UEB_11-3_ringbeweis.pdf ist die Lösung zu dem Pain in Form einer Übungsaufgabe (Blatt 11, Aufgabe 3).
 
