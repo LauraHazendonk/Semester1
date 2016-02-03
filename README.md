@@ -1,7 +1,7 @@
 # Alpha-Nerds
 ##News:
 
-* 03.02 (2) - Dateien nicht umbedingt in .pdf hochladen: .png/.jpgg reicht.
+* 03.02 (2) - Dateien nicht umbedingt in .pdf hochladen: .png/.jpg reicht.
 
 * 03.02 (1) - Namenskonventionen geupdated (EXT Materialien Spezifikation).
 
