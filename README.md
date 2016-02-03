@@ -1,6 +1,8 @@
 # Alpha-Nerds
 ##News:
 
+* 03.02 (3) - Python-Programm zur automatischen Generierung von PDF's im Ordner Anderes
+
 * 03.02 (2) - Dateien nicht umbedingt in .pdf hochladen: .png/.jpg reicht.
 
 * 03.02 (1) - Namenskonventionen geupdated (EXT Materialien Spezifikation).
@@ -77,4 +79,4 @@ L_UEB_11-3_ringbeweis.pdf ist die Lösung zu dem Pain in Form einer Übungsaufga
 
 [Vorlesungs-Seite](http://aam.uni-freiburg.de/abtlg/ls/lsbartels/lehre/Mathematik_I/Mathematik_I)
 
-Kleine Anmerkung: bevor ihr pushen/commiten könnt, müsst ihr write-access bekommen! Dazu braucht der aktuelle Repository-Nerd euren Github namen.
+Kleine Anmerkung: bevor ihr pushen/commiten könnt, müsst ihr write-access bekommen! Dazu braucht der aktuelle Repository-Nerd euren Github Namen.
