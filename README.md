@@ -1,7 +1,11 @@
 ﻿# Alpha-Nerds
 ##News:
 
+<<<<<<< HEAD
 * 05.02 (1) - Allgemeine Beweise zu Grenzwerten aus VL in Ordner Grenzwerte/Funktionen abgelegt, BITTE BEARBEITEN
+=======
+* 05.02 - Einteilung geupdated, Pano hinzugefügt. Einige Nerds müssen nun weniger Themen bearbeiten!
+>>>>>>> 092c27263c18274413d17e6e2e575bd638ae17eb
 
 * 03.02 (3) - Python-Programm zur automatischen Generierung von PDF's im Ordner Anderes
 
@@ -16,14 +20,14 @@
 
 Thema | Nerd 1 | Nerd 2
 --- | --- | ---
-**Induktion** | Daniel | Julia
+**Induktion** | Daniel | Pano
 **Kompl. Zahlen**: Die Zahlen| Freddy | Daniel
 **Kompl. Zahlen**: Polynome| Julia | Alex
 **Grenzwerte**: Reihen | Alex | Julia
 **Grenzwerte**: Funktionen|Danny | Freddy
-**Stetigkeit**|Daniel | Freddy
+**Stetigkeit**|Pano | Freddy
 **Exponentialfunktion** | Julia | Danny
-**Ableitungen** | Alex | Daniel
+**Ableitungen** | Pano | Daniel
 **Integral** | Freddy | Danny
 **Taylorpolynom** | ??? | ???
 
@@ -37,7 +41,7 @@ Zu dem jeweiligen Thema sind jeweils herauszusuchen (falls vorhanden):
 
 3. Beweise aus der Vorlesung
 
-und anschließend in dieses Repository als .pdf/.png/.jpg File in den entsprechenden Ordner zu commiten. Dies kann z.B. durch einen Screenshot geschehen. Nur relevante Aufgaben/Beweise hochladen (nicht zu schwierig, aber die 1er Aufgaben nicht weglassen!). Hat der andere Nerd die Aufgabe schon hochgeladen, bitte nicht ein zweites mal commiten. Lösungen sind nicht anzufertigen, können aber gerne hochgeladen werden.
+und anschließend in dieses Repository als .pdf/.png/.jpg File in den entsprechenden Ordner zu commiten. Dies kann z.B. durch einen Screenshot geschehen. Nur relevante Aufgaben/Beweise hochladen (nicht zu schwierig, aber die 1er Aufgaben nicht weglassen!). Hat der andere Nerd die Aufgabe schon hochgeladen, bitte nicht ein zweites mal commiten. Lösungen sind nicht anzufertigen, können aber gerne hochgeladen werden falls vorhanden.
 
 __Deadline__ ist der 08.02.
 
