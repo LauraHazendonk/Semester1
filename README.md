@@ -1,5 +1,7 @@
-# Alpha-Nerds
+﻿# Alpha-Nerds
 ##News:
+
+* 05.02 (1) - Allgemeine Beweise zu Grenzwerten aus VL in Ordner Grenzwerte/Funktionen abgelegt, BITTE BEARBEITEN
 
 * 03.02 (3) - Python-Programm zur automatischen Generierung von PDF's im Ordner Anderes
 
