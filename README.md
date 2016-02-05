@@ -2,8 +2,9 @@
 ##News:
 
 <<<<<<< HEAD
-* 05.02 (1) - Allgemeine Beweise zu Grenzwerten aus VL in Ordner Grenzwerte/Funktionen abgelegt, BITTE BEARBEITEN
 =======
+* 05.02 (1) - Allgemeine Beweise zu Grenzwerten aus VL in Ordner Grenzwerte/Funktionen abgelegt, BITTE BEARBEITEN
+
 * 05.02 - Einteilung geupdated, Pano hinzugefügt. Einige Nerds müssen nun weniger Themen bearbeiten!
 >>>>>>> 092c27263c18274413d17e6e2e575bd638ae17eb
 
