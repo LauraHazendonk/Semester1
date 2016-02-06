@@ -1,5 +1,10 @@
 # Alpha-Nerds
+
 ##News:
+
+* 05.02 - Einteilung geupdated, Pano hinzugefügt. Einige Nerds müssen nun weniger Themen bearbeiten!
+
+* 03.02 (3) - Python-Programm zur automatischen Generierung von PDF's im Ordner Anderes
 
 * 03.02 (2) - Dateien nicht umbedingt in .pdf hochladen: .png/.jpg reicht.
 
@@ -12,14 +17,14 @@
 
 Thema | Nerd 1 | Nerd 2
 --- | --- | ---
-**Induktion** | Daniel | Julia
+**Induktion** | Daniel | Pano
 **Kompl. Zahlen**: Die Zahlen| Freddy | Daniel
 **Kompl. Zahlen**: Polynome| Julia | Alex
 **Grenzwerte**: Reihen | Alex | Julia
 **Grenzwerte**: Funktionen|Danny | Freddy
-**Stetigkeit**|Daniel | Freddy
+**Stetigkeit**|Pano | Freddy
 **Exponentialfunktion** | Julia | Danny
-**Ableitungen** | Alex | Daniel
+**Ableitungen** | Pano | Daniel
 **Integral** | Freddy | Danny
 **Taylorpolynom** | ??? | ???
 
@@ -33,7 +38,7 @@ Zu dem jeweiligen Thema sind jeweils herauszusuchen (falls vorhanden):
 
 3. Beweise aus der Vorlesung
 
-und anschließend in dieses Repository als .pdf/.png/.jpg File in den entsprechenden Ordner zu commiten. Dies kann z.B. durch einen Screenshot geschehen. Nur relevante Aufgaben/Beweise hochladen (nicht zu schwierig, aber die 1er Aufgaben nicht weglassen!). Hat der andere Nerd die Aufgabe schon hochgeladen, bitte nicht ein zweites mal commiten. Lösungen sind nicht anzufertigen, können aber gerne hochgeladen werden.
+und anschließend in dieses Repository als .pdf/.png/.jpg File in den entsprechenden Ordner zu commiten. Dies kann z.B. durch einen Screenshot geschehen. Nur relevante Aufgaben/Beweise hochladen (nicht zu schwierig, aber die 1er Aufgaben nicht weglassen!). Hat der andere Nerd die Aufgabe schon hochgeladen, bitte nicht ein zweites mal commiten. Lösungen sind nicht anzufertigen, können aber gerne hochgeladen werden falls vorhanden.
 
 __Deadline__ ist der 08.02.
 
@@ -77,4 +82,4 @@ L_UEB_11-3_ringbeweis.pdf ist die Lösung zu dem Pain in Form einer Übungsaufga
 
 [Vorlesungs-Seite](http://aam.uni-freiburg.de/abtlg/ls/lsbartels/lehre/Mathematik_I/Mathematik_I)
 
-Kleine Anmerkung: bevor ihr pushen/commiten könnt, müsst ihr write-access bekommen! Dazu braucht der aktuelle Repository-Nerd euren Github namen.
+Kleine Anmerkung: bevor ihr pushen/commiten könnt, müsst ihr write-access bekommen! Dazu braucht der aktuelle Repository-Nerd euren Github Namen.
