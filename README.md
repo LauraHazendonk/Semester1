@@ -2,8 +2,6 @@
 
 ##News:
 
-* 05.02 (2) - Allgemeine Beweise zu Grenzwerten aus VL in Ordner Grenzwerte/Funktionen abgelegt, __bitte bearbeiten!!__
-
 * 05.02 (1) - Einteilung geupdated, Pano hinzugefügt. Einige Nerds müssen nun weniger Themen bearbeiten!
 
 * 03.02 (3) - Python-Programm zur automatischen Generierung von PDF's im Ordner Anderes
