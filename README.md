@@ -18,7 +18,8 @@ Fr 15.|-     |10-16* |16-19|-
 Sa 14.|16-19 |10-16* |-    |-
 
 
-* inclusive 1h Essen
+\* inclusive 1h Essen
+
 ## Fächer
 
 ### Informatik
