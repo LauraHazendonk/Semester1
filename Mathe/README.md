@@ -1,4 +1,4 @@
-# Alpha-Nerds
+# Mathe
 
 ##News:
 
