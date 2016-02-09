@@ -7,7 +7,7 @@ nichts
 ## Themengebiete
 
 
-Thema | ... 
+Thema | Spezifikation
 ---   | ---
 Wissensfragen | Algorithmus, Geschichte der Iformatik, Deklarativ/Imperativ, Interpreter/Complier, Ethik, ...
 Shellausgabe | List-Cmprehension, 3, 4, 5, 10, 13, (14,) 16, 22 26, 27 -> nur etwas aus der Vorlesung
