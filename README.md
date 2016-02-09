@@ -16,13 +16,13 @@ Mo 15.|-     |10-16* |16-19|-
 ## Fächer
 
 ### Informatik
-#### News
+
 
 nichts
 
 ### Mathe
 
-#### News
+
 * 05.02 - Einteilung geupdated, Pano hinzugefügt. Einige Nerds müssen nun weniger Themen bearbeiten!
 
 * 03.02 (3) - Python-Programm zur automatischen Generierung von PDF's im Ordner Anderes
@@ -32,12 +32,12 @@ nichts
 * 03.02 (1) - Namenskonventionen geupdated (EXT Materialien Spezifikation).
 
 ### Systeme
-#### News
+
 
 nichts
 
 ### Technische Informatik
-#### News
+
 
 nichts
 
