@@ -18,7 +18,7 @@ Mo 15.|-     |10-16* |16-19|-
 ### Informatik
 #### News
 
--
+nichts
 
 ### Mathe
 
@@ -34,12 +34,12 @@ Mo 15.|-     |10-16* |16-19|-
 ### Systeme
 #### News
 
--
+nichts
 
 ### Technische Informatik
 #### News
 
--
+nichts
 
 
 
