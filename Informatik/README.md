@@ -31,3 +31,7 @@ Jedem ist beim erstellen der Aufgaben weitgehendst didaktische Freiheit gewährt
 * Niveau entsprechend der Klausur
 
 * Ein für die Aufgabe sinnvolles Maß an Vorlesungen beziehungsweise Gebieten ist abzudecken.
+
+## Links
+
+[Vorlesungs-Seite](http://gki.informatik.uni-freiburg.de/teaching/ws1516/info1/lecture_de.html)
