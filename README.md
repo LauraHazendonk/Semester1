@@ -1,8 +1,12 @@
 # Alpha-Nerds Semester 1
 
-## News:
+## News/Hinweise:
 
-* 09.02. Repository angelegt
+* 10.02 (2) - Informatik großes Update mit neuer Aufteilung.
+
+* 10.02 (1) - Für jedes Fach gibt es im Unterordner noch eine spezifisches README, diese Umbedingt beachten.
+
+* 09.02 - Repository angelegt
 
 ## Kalender
 
@@ -10,12 +14,12 @@
 Tag   | Info | Mathe | Sys | TI
 ---   | ---  | ---   | --- |---
 So 14.|16-19 |10-16* |-    |-
-Mo 15.|-     |10-16* |16-19|-
-Di 14.|16-19 |10-16* |-    |-
-Mi 15.|-     |10-16* |16-19|-
-Do 14.|16-19 |10-16* |-    |-
-Fr 15.|-     |10-16* |16-19|-
-Sa 14.|16-19 |10-16* |-    |-
+Mo 16.|-     |10-16* |16-19|-
+Di 17.|16-19 |10-16* |-    |-
+Mi 18.|-     |10-16* |16-19|-
+Do 19.|16-19 |10-16* |-    |-
+Fr 20.|-     |10-16* |16-19|-
+Sa 21.|16-19 |10-16* |-    |-
 
 
 \* inclusive 1h Essen
@@ -25,7 +29,7 @@ Sa 14.|16-19 |10-16* |-    |-
 ### Informatik
 
 
-nichts
+* 10.02 - Erste Themenaufteilung hinzugefügt.
 
 ### Mathe
 
@@ -40,13 +44,11 @@ nichts
 
 ### Systeme
 
-
-nichts
+Hier steht irgend wann mal etwas damit ihr auch ja kein Leben habt :)
 
 ### Technische Informatik
 
-
-nichts
+Hier auch.
 
 
 
