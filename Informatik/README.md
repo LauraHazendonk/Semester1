@@ -16,7 +16,7 @@ Jeder ist eingeladen sich frei zu den jeweiligen Aufgabengebieten einzuteilen. Z
 **Shellausgabe** | List-Comprehension, diverse | 3, 4, 5, 10, 13, (14), 16, 22, 26, 27 | Klausur | Julia
 **Programmausgaben** | Generatoren, Dekoratoren, Namenssuche, Listen-comprehension, allgemeine | 9, (11), 14, 16, (23), 26, 27 | Klausur| Danny
 **Programm schreiben** | Generatoren, Dekoratoren, allgemeine | 9, (14), 16, (22), 26, 27 |Klausur| Freddy
-**Objektorientierte Progr.** | MRO, Ausgabe, OOP allgemein | 17, 18, 19 |Klausur | ?
+**Objektorientierte Progr.** | MRO, Ausgabe, OOP allgemein | 17, 18, 19 |Klausur | Laura
 **Fehlersuche** | OOP, Laufzeitfehler (dict, set, ...), allgemeine | 1-6, 10, 12(!), 13, (14), (16), 17-19, 26, 27 | Klausur| Daniel
 **Komplexitätsaufgabe** | (Programm analysieren(!), Groß-O an Funktionen(!) ), Listencomprehension, allgemeine | (24), 25, 26, 27 | Klausur | Feli
 
